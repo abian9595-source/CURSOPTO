@@ -1,4 +1,3 @@
-Curso IES PTO del Rosario
 <!doctype html>
 <html lang="es">
 <head>
